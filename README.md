@@ -45,6 +45,11 @@
 
 ## Output
 
+<img width="1914" height="855" alt="image" src="https://github.com/user-attachments/assets/90b6791b-4108-4b87-9fec-d2ded17ace37" />
+
+<img width="1913" height="854" alt="image" src="https://github.com/user-attachments/assets/ad12866c-14bd-490c-9250-10010c69a0d8" />
+
+
 
 ### Name:
 ### Register Number: 
